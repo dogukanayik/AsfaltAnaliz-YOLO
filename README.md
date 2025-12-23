@@ -29,11 +29,11 @@ Eğitilen modelin (Nano mimarisi üzerine inşa edilmiş) detaylı başarı oran
 
 ## Confisuon Matrix
 
-<img width="1460" height="730" alt="Image" src="https://github.com/user-attachments/assets/065c45dc-d8b1-4cab-bd4e-6dcb74b98c66" />
+ <img width="1460" height="1095" alt="Image" src="https://github.com/user-attachments/assets/ab98202c-18fc-47d0-bd7b-012770df8bb7" />
 
 ## Education Graphics
 
-<img width="1460" height="1095" alt="Image" src="https://github.com/user-attachments/assets/ab98202c-18fc-47d0-bd7b-012770df8bb7" />
+ <img width="1460" height="730" alt="Image" src="https://github.com/user-attachments/assets/065c45dc-d8b1-4cab-bd4e-6dcb74b98c66" />
 
 ### 🏆 Genel Performans Özeti
 Model, 100 epoch sonunda **%41.8 mAP50** genel başarı skoruna ulaşmıştır. Özellikle **Block (Blok Çatlak)** hasarlarında **%89.3** gibi yüksek bir doğruluk sergilemektedir.
