@@ -27,6 +27,12 @@ Video akışı sırasında anlık tespitler yapılarak yol güvenliği analizi g
 
 Eğitilen modelin (Nano mimarisi üzerine inşa edilmiş) detaylı başarı oranları ve doğrulama sonuçları aşağıdadır:
 
+## Confisuon Matrix
+
+<img width="1460" height="730" alt="Image" src="https://github.com/user-attachments/assets/065c45dc-d8b1-4cab-bd4e-6dcb74b98c66" />
+
+## Education Graphics
+
 ### 🏆 Genel Performans Özeti
 Model, 100 epoch sonunda **%41.8 mAP50** genel başarı skoruna ulaşmıştır. Özellikle **Block (Blok Çatlak)** hasarlarında **%89.3** gibi yüksek bir doğruluk sergilemektedir.
 
