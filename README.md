@@ -27,7 +27,7 @@ Video akışı sırasında anlık tespitler yapılarak yol güvenliği analizi g
 
 Eğitilen modelin (Nano mimarisi üzerine inşa edilmiş) detaylı başarı oranları ve doğrulama sonuçları aşağıdadır:
 
-## Confisuon Matrix
+## Confusion Matrix
 
  <img width="1460" height="1095" alt="Image" src="https://github.com/user-attachments/assets/ab98202c-18fc-47d0-bd7b-012770df8bb7" />
 
